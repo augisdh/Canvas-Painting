@@ -20,7 +20,7 @@ body {
     cursor: pointer;
     z-index: 10;
     transition: all 200ms;
-	-webkit-transition: all 200ms;
+    -webkit-transition: all 200ms;
 }
 
 #navLeft {
