@@ -8,7 +8,6 @@ body {
     overflow: hidden;
 }
 
-/* Styling left nav bar */
 .toggleNavLeft {
     position: fixed;
     width: 35px;
